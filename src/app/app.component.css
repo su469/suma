@@ -1,0 +1,8 @@
+.div box{
+  width:30px;
+  height: 30px;
+  padding:30px ;
+  float:left;
+  margin:10px ;
+  overflow:hidden ;
+}
